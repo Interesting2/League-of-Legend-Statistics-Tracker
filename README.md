@@ -33,7 +33,7 @@ To get a local copy of the project up and running, follow these steps.
       set TWILIO_API_KEY=your_twilio_api_key
       set RIOT_API_KEY=your_riot_games_api_key
       set REDDIT_API_KEY=your_reddit_api_key
-
+      ```
 
       For MacOS or Linux users, set environment variables in the terminal:
       ```bash
